@@ -22,4 +22,4 @@ router.beforeEach((to) => {
   }
 })
 
-export default router  11
+export default router
